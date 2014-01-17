@@ -78,9 +78,6 @@
 				<role>developer</role>
 			</roles>
 			<timezone>-6</timezone>
-			<properties>
-				<picUrl>http://loci.wisc.edu/files/loci/images/people/stu_fa08_Lentz.jpg</picUrl>
-			</properties>
 		</developer>
 		<developer>
 			<id>aivar</id>
@@ -93,9 +90,6 @@
 				<role>developer</role>
 			</roles>
 			<timezone>-6</timezone>
-			<properties>
-				<picUrl>http://loci.wisc.edu/files/loci/images/people/Aivar.jpg</picUrl>
-			</properties>
 		</developer>
 	</developers>
 
